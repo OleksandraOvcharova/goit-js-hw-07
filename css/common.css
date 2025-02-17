@@ -3,7 +3,7 @@
   list-style: none;
   text-decoration: none;
 }
-ul[class],
+ul,
 ol[class] {
   padding: 0;
 }
@@ -15,7 +15,7 @@ h4,
 h5,
 h6,
 p,
-ul[class],
+ul,
 ol[class],
 li {
   margin: 0;
